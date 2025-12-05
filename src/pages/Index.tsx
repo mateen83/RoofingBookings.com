@@ -8,14 +8,14 @@ import { Footer } from "@/components/Footer";
 const Index = () => {
   return (
     <div className="min-h-screen bg-background">
-      
+      <Header />
       <main>
         <HeroSection />
         <ProblemSection />
         <HookSection />
         <QualificationSection />
       </main>
-   
+   <Footer />
     </div>
   );
 };

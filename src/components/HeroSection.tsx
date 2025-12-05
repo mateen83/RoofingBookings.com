@@ -18,7 +18,7 @@ export function HeroSection() {
   };
 
   return (
-    <section className="min-h-screen flex items-center pt-20 md:pt-24 pb-16 md:pb-24">
+    <section className="min-h-screen flex items-center pt-20 mt-20 md:pt-24 pb-16 md:pb-24">
       <div className="section-container">
         <div className="max-w-4xl mx-auto text-center">
           {/* Headline */}
